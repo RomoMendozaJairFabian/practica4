@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package g4s22p4hrlfe;
+package g4s22p4lfrs;
 
 /**
  *
@@ -40,7 +40,7 @@ public class FrmDesarrolla extends javax.swing.JInternalFrame {
         jTextArea1.setEditable(false);
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
-        jTextArea1.setText("Información del programador:\n- Luis Fernando Hernández Rodríguez\n- 21 años\n- Estudiante de la Ingenieria en Sistemas Computacionales\n-Estudia en el \"Tecnologico de Estudios Superiores del Estado de México\" \n(TESOEM)");
+        jTextArea1.setText("Información del programador:\n- Luis Fernando Romero Sarabia \n- 21 años\n- Estudiante de la Ingenieria en Sistemas Computacionales\n-Estudia en el \"Tecnologico de Estudios Superiores del Estado de México\" \n(TESOEM)");
         jScrollPane1.setViewportView(jTextArea1);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

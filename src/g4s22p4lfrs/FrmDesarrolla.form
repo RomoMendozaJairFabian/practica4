@@ -68,7 +68,7 @@
             <Property name="editable" type="boolean" value="false"/>
             <Property name="columns" type="int" value="20"/>
             <Property name="rows" type="int" value="5"/>
-            <Property name="text" type="java.lang.String" value="Informaci&#xf3;n del programador:&#xa;- Luis Fernando Hern&#xe1;ndez Rodr&#xed;guez&#xa;- 21 a&#xf1;os&#xa;- Estudiante de la Ingenieria en Sistemas Computacionales&#xa;-Estudia en el &quot;Tecnologico de Estudios Superiores del Estado de M&#xe9;xico&quot; &#xa;(TESOEM)"/>
+            <Property name="text" type="java.lang.String" value="Informaci&#xf3;n del programador:&#xa;- Luis Fernando Romero Sarabia &#xa;- 21 a&#xf1;os&#xa;- Estudiante de la Ingenieria en Sistemas Computacionales&#xa;-Estudia en el &quot;Tecnologico de Estudios Superiores del Estado de M&#xe9;xico&quot; &#xa;(TESOEM)"/>
           </Properties>
         </Component>
       </SubComponents>
